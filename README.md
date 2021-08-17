@@ -1,3 +1,4 @@
+## source https://github.com/linuxacademy/cicd-pipeline-train-schedule-selfhealing/tree/example-solution
 # cicd-pipeline-train-schedule-selfhealing
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
